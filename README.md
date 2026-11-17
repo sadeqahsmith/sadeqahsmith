@@ -7,7 +7,7 @@ I build information systems, from database design to desktop and web application
 ### 🛠 Tech I Work With
 C# | ASP.NET | C++ | SQL | Python | Java | HTML / CSS | Git & GitHub | Windows Troubleshooting
 
-### 📌 Featured Projects
+### Featured Projects
 
 #### 1. Ballerina Footwear Operational Management System
 `C#` `ASP.NET` `SQL` — Mar 2026 to Nov 2026
@@ -27,13 +27,14 @@ C# application enabling blood donors to book, view and manage donation appointme
 
 Designed a relational SQL database for donor info, appointment schedules and blood group records, with full documentation including ERDs and UML diagrams.
 
-### 🎯 Currently Focused On
+### Currently Focused On
 - Building complete, documented systems from database to UI
 - Strengthening C++, C#, ASP.NET and SQL
 - Growing towards IT Support / Junior Developer roles
 
-### 📫 Let's Connect
+### Let's Connect
 - GitHub: github.com/sadeqahsmith
+- Email: sadeqahsmith@gmail.com
 - Location: Durban, South Africa
 
 <!--

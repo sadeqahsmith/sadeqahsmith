@@ -1,8 +1,8 @@
-# Hi, I'm Sadeqah Smith 👋
+# Hi, I'm Sadeqah Smith
 
 Computer Science & IT student based in Durban, South Africa.
 
-I build full systems — from database design to desktop and web applications — with a focus on clean data management and real business workflows.
+I build information systems, from database design to desktop and web applications, with a focus on clean data management and real business workflows.
 
 ### 🛠 Tech I Work With
 C# | ASP.NET | C++ | SQL | Python | Java | HTML / CSS | Git & GitHub | Windows Troubleshooting
@@ -29,7 +29,7 @@ Designed a relational SQL database for donor info, appointment schedules and blo
 
 ### 🎯 Currently Focused On
 - Building complete, documented systems from database to UI
-- Strengthening C#, ASP.NET and SQL
+- Strengthening C++, C#, ASP.NET and SQL
 - Growing towards IT Support / Junior Developer roles
 
 ### 📫 Let's Connect

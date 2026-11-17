@@ -5,7 +5,7 @@ Computer Science & IT student based in Durban, South Africa.
 I build information systems, from database design to desktop and web applications, with a focus on clean data management and real business workflows.
 
 ### Tech I Work With
-C# | ASP.NET | C++ | SQL | Python | Java | HTML / CSS | Git & GitHub | Windows Troubleshooting
+C# | ASP.NET | C++ | SQL | Python | Java | HTML | Assembly | Git & GitHub
 
 ### Featured Projects
 
